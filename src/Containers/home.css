@@ -1,0 +1,10 @@
+.userName 
+{
+    display: flex;
+    justify-content:center ;
+    font-size: medium;
+    font-style: bold;
+}
+.borederd{
+    border: solid;
+}
